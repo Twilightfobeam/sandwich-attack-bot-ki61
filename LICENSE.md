@@ -1,4 +1,4 @@
-# 
+# vip Executor for sandwich attack bot | trailing-stop & bundle-transactions offers the most advanced sandwich attack bot, with trailing-stop and bundle-transactions. Ideal for
 
 
 
